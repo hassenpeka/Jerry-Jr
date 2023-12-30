@@ -1,0 +1,16 @@
+a:link {
+    color:default;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  
+  a:hover {
+    background-color: rgb(240, 242, 245);
+    text-decoration: underline;
+  }
+  
+  
+  footer {
+    text-align: center;
+  }
